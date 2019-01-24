@@ -1,0 +1,3 @@
+get_status_wsdl: https://slnfsapp01.speedleasing.azure/mpower-test/services/MsiAppExtractor?wsdl
+update_status_wsdl: https://slnfsapp01.speedleasing.azure/mpower-test/services/MsiAppOriginatorDocLit?wsdl
+path_to_file: docs/statusTransfer_20190117.csv
