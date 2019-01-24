@@ -1,5 +1,3 @@
-# leasepak_update_status_service
-
 Invoke “Status Transfer” LeasePak API to update status
 ==============
 SOAP client for the [Status Transfer](https://github.com/HamzaShafiq/leasepak_update_status_service)
@@ -11,6 +9,7 @@ If you have any issues, suggestions, improvements, etc. then please log them usi
 ## Requirements
 
 * [ruby](https://www.ruby-lang.org/en/documentation/installation/) 
+* [bundler](https://github.com/bundler/bundler)
 
 
 Usage
@@ -25,11 +24,6 @@ Clone the [Status Transfer](https://github.com/HamzaShafiq/leasepak_update_statu
   * path_to_file = Path to the Status Transfer data csv file  
 
 * On your bash run command: ruby update_status.rb
-
-
-License
--------
-The Status Transfer Client in Ruby is released under the MIT license.
 
 Author
 ------
